@@ -1,0 +1,104 @@
+CYBERSECURITY ESSENTIALS
+
+- Defend the use of Cyber Space from Cyber Attacks
+
+CYBERSECURITY CUBE
+
+Framework to establish and evaluate InfoSec programs:
+
+Goals              Data States     Safeguards
+
+1- Confidentiality 4- Transmission 7- Human
+2- Integrity       5- Storage      8- Policy and Practices
+3- Availability    6- Processing   9- Technology
+
+1. Unauthorised access - Prevented
+2. Data not modified in a way of "tampering"
+3. Access not unavailable
+
+4. Transmission between information systems "Data in Transit"
+5. Data at rest - stored
+6. Performing operations upon data
+
+7. Also 'personnel' - How people will apply policies / training of them.
+8. Administrative controls / operations.
+9. Software and hardware-based solutions.
+
+TERMS
+
+"Asset" - What are protecting
+"Vulnerability" - Weakness / gap in protection efforts.
+"Exploit" - How hacker leverages vulnerability.
+"Threat" - Hypothetical event we protect against.
+"Risk" - Intersection of assets, threats and vulnerabilities or probability * impact.
+
+CAUSES OF vulnerabilities
+
+Design and development errors
+Poor system configuration
+Human errors
+Connectivity
+Complexity
+Passwords
+User Input
+Management
+Lack of Staff training
+Communication
+
+CYBER ATTACKS
+
+Untargeted / targeted ATTACKS
+
+ACTORS
+
+Nation State > Geopolitical
+Cyber Criminals > Profit
+Hacktivists > Ideology
+Terrorists > Violence
+Thrill-seekers > Satisfaction
+Insiders > Discontent
+
+CYBER THREATS
+
+-Malware - Software that performs malicious tasks on devices / network.
+-Spyware - Form of malware, hides on device, providing real-time information.
+-Phishing attack - Cybercriminal lures individual to provide sensitive data.
+-Distributed Denial of Service (DDoS) - Disrupt a network by flooding it with superfluous requests.
+-Ransomware - Malware to deny access to system or data until ransom paid
+-Missing?-
+-Zero-day exploit - Flaw in software or hardware or firmware which is unknown to parties responsible for patching flaw.
+-Advanced Persistent Threat - Access gained and remains undetected for while.
+-Trojan - A backdoor in system.
+-Wiper Attack - Malware with intention to wipe hard drive.
+-Intellectual Property Theft
+-Theft of Money
+-Data Manipulation
+-Data Destruction - Attempt to delete data.
+-Man-In-The-Middle - Relays information.
+
+CYBER THREAT SURFACE
+
+- All available endpoints that threat actor exploits in internet-connected devices.
+
+- The processes producing, delivering and relying upon information systems.
+
+CYBER KILL CHAIN
+
+Recconnaisance > Weaponisationsation > Delivery > Exploitation > Installation >
+Command and Control > Actions on Objectives > (Retreat)
+
+SECURITY PRACTICES
+
+- Hardware not being used may as well be disabled / uninstalled.
+
+- Removable storage media still uses outdated and unsecure file systems.
+
+VM WORK
+
+- Good Practice to remove admin account for occassional use.
+
+- Disable remote Access
+
+-Upload to GitHub
+
+(Did powershell work)

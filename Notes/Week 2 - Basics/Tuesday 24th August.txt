@@ -1,0 +1,48 @@
+- Finish Yesterday's task and push to GitHub, (did so, received critique on how to keep repo)
+
+VIRTUALISATION
+
+- The process of separating software from hardware.
+
+- "Virtual server" means server doesn't exist in physical form.
+
+-"Hypervisor" (e.g. VirtualBox) (Virtual Machine Monitor) works as interface between VMs and Host.
+
+-"Type 1" is preferable with regards security.
+
+-"Nano" and "gedit" editors in Ubuntu good.
+
+--- sum01.ps1 ---
+
+- Finished from yesterday.
+
+A simple script to perform addition when run in Windows PowerShell.
+
+Save the script in the desktop directory using the name sum01.ps1
+
+Open PowerShell.
+
+Change the current working directory using Set-Location
+
+Set-Location $HOME/Desktop
+
+Run the script by typing this command
+
+.\$HOME\Desktop\sum01.ps1
+
+--- sum01.ps1 ---
+
+--- MultiOps.ps1 ---
+
+- Then attempted the following task, saw demo by Osamas, docs.microsoft.coms a good reference
+
+  Write a new PowerShell script that that can perform the following operations:
+
+  - Read two numbers from the input and assign them to FIRST_NUM and $SECOND_NUM variables.
+- Perform the four basic operations (Addition, Subtraction, Multiplication and Division) on the two numbers and assign the results to new variables $SUM, $SUB, $MUL and $DIV.
+- Display the results in a readable syntax on the screen.
+- Create a text file results.txt
+- Add the basic operation results to results.txt file.
+- Run the script multiple times using different values.
+
+--- MultiOps.ps1  ---
